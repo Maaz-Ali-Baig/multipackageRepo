@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32630.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FlatFileOut", "FlatFileOut\FlatFileOut.btproj", "{79D21C76-54DF-4E41-95BB-0E15804AB206}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{79D21C76-54DF-4E41-95BB-0E15804AB206}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{79D21C76-54DF-4E41-95BB-0E15804AB206}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{79D21C76-54DF-4E41-95BB-0E15804AB206}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{79D21C76-54DF-4E41-95BB-0E15804AB206}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{79D21C76-54DF-4E41-95BB-0E15804AB206}.Release|Any CPU.Build.0 = Release|Any CPU
+		{79D21C76-54DF-4E41-95BB-0E15804AB206}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E2DFB57A-AB13-47C3-8109-76674C5EC4AD}
+	EndGlobalSection
+EndGlobal
